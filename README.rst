@@ -22,4 +22,4 @@ python_learn
 7. когда ваше решение проходит тесты то делаем ``git commit -m "Your message"`` и ``git push origin master`` в свой репозитарий
 
 
-.. _scores: https://github.com/Infernion/python_learn/students.rst
+.. _scores: https://github.com/Infernion/python_learn/blob/master/students.rst
