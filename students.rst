@@ -73,7 +73,7 @@
      -
    * - 4
      - Ілля Ананіч
-     -
+     - LotosIk-Ra_
      -
      -
      -
@@ -150,3 +150,4 @@
 
 .. _belskiiartem: https://github.com/belskiiartem
 .. _zaikays: https://github.com/zaikays
+.. _LotosIk-Ra: https://github.com/LotosIk-Ra
