@@ -84,7 +84,7 @@
      -
    * - 5
      - Шереметьев Павел
-     -
+     - LeadVocal_
      -
      -
      -
@@ -152,3 +152,4 @@
 .. _zaikays: https://github.com/zaikays
 .. _LotosIk-Ra: https://github.com/LotosIk-Ra
 .. _mcheronik: https://github.com/mcheronik
+.. _LeadVocal: https://github.com/LeadVocal
