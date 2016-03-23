@@ -134,9 +134,9 @@
 .. |dz3| replace:: дз #3
 .. |dz4| replace:: дз #4
 .. |dz5| replace:: дз #5
-.. |dz6| replace:: дз #5
-.. |dz7| replace:: дз #5
-.. |dz8| replace:: дз #5
+.. |dz6| replace:: дз #6
+.. |dz7| replace:: дз #7
+.. |dz8| replace:: дз #8
 .. _dz1: https://github.com/Infernion/python_learn/tree/master/tasks/order_1
 .. _dz2: https://github.com/Infernion/python_learn/tree/master/tasks/order_2
 .. _dz3: https://github.com/Infernion/python_learn/tree/master/tasks/order_3
