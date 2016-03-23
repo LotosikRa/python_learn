@@ -62,7 +62,7 @@
      -
    * - 3
      - Myhaylo Chervonik
-     - mcheronik_
+     - mchervonik_
      - [**+5**]
      -
      -
@@ -151,5 +151,5 @@
 .. _belskiiartem: https://github.com/belskiiartem
 .. _zaikays: https://github.com/zaikays
 .. _LotosIk-Ra: https://github.com/LotosIk-Ra
-.. _mcheronik: https://github.com/mcheronik
+.. _mchervonik: https://github.com/mchervonik
 .. _LeadVocal: https://github.com/LeadVocal
