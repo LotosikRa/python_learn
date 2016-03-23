@@ -29,8 +29,14 @@ python_learn
 5. когда ваше решение проходит тесты то делаем ``git commit -m "Your message"`` и ``git push origin solutions``, что зальет изменения в ваш репозиторием
 6. добавляем в файл scores_ ссылку на решение задания по аналогии. Для этого нужно сделать Pull_request_.
 
+Общая схема работы с GitHub
+===========================
+
+.. image:: picture.jpg
+Если всё еще что то не ясно переходим по ссылочке для коментариев: for_comments_.
 
 .. _scores: https://github.com/Infernion/python_learn/blob/master/students.rst
 .. _syncing-a-fork: https://help.github.com/articles/syncing-a-fork/#platform-windows
 .. _configuring-a-remote-for-a-fork: https://help.github.com/articles/configuring-a-remote-for-a-fork/
 .. _Pull_request: https://help.github.com/articles/using-pull-requests/
+.. _for_comments: https://docs.google.com/drawings/d/1dPZvqznigTCSEu9PUpyOdQPVJq3bFfYVybETjvoTRoA/edit?usp=sharing
