@@ -74,7 +74,7 @@
    * - 4
      - Ілля Ананіч
      - LotosIk-Ra_
-     -
+     - 1I_ 2I_ 3I_
      -
      -
      -
@@ -153,3 +153,6 @@
 .. _LotosIk-Ra: https://github.com/LotosIk-Ra
 .. _mchervonik: https://github.com/mchervonik
 .. _LeadVocal: https://github.com/LeadVocal
+.. _1I: https://github.com/LotosikRa/python_learn/blob/solutions/tasks/order_1/1.py
+.. _2I: https://github.com/LotosikRa/python_learn/blob/solutions/tasks/order_1/2.py
+.. _3I: https://github.com/LotosikRa/python_learn/blob/solutions/tasks/order_1/3.py
