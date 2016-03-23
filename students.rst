@@ -133,7 +133,7 @@
 
 HELP_
 =====
-.. _HELP: https://github.com/LotosikRa/python_learn/blob/develop/instructions/instructions.rst
+.. _HELP: https://github.com/LotosikRa/python_learn/blob/develop/instructions/instructions.rst#Работа-с-табличкой
 .. CheckPoints
 
 .. |dz1| replace:: дз #1
