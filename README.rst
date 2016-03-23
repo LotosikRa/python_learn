@@ -34,9 +34,11 @@ python_learn
 
 .. image:: picture.jpg
 Если всё еще что то не ясно переходим по ссылочке для коментариев: for_comments_.
+Для работы с table_ (обновления, с отметкой о сделаном задании) добавьте после номера-ссылки здёздочку "*" (так вы дадите понять, что решение готово и лежит в вашем репозитарии) и убедитесь в работе уже прописаной ссылки. Предполагаеться использование ветки "solutions" для решений.
 
 .. _scores: https://github.com/Infernion/python_learn/blob/master/students.rst
 .. _syncing-a-fork: https://help.github.com/articles/syncing-a-fork/#platform-windows
 .. _configuring-a-remote-for-a-fork: https://help.github.com/articles/configuring-a-remote-for-a-fork/
 .. _Pull_request: https://help.github.com/articles/using-pull-requests/
 .. _for_comments: https://docs.google.com/drawings/d/1dPZvqznigTCSEu9PUpyOdQPVJq3bFfYVybETjvoTRoA/edit?usp=sharing
+.. _table: https://github.com/Infernion/python_learn/blob/master/students.rst
