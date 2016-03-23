@@ -32,12 +32,11 @@ python_learn
 Общая схема работы с GitHub
 ===========================
 
-Если непонятна общая схема работы в такой страшной штуке проходим по ссылочке на picture_.
-Если всё еще чтото не ясно переходим по ссылочке для коментариев: for_comments_.
+.. image:: picture.jpg
+Если всё еще что то не ясно переходим по ссылочке для коментариев: for_comments_.
 
 .. _scores: https://github.com/Infernion/python_learn/blob/master/students.rst
 .. _syncing-a-fork: https://help.github.com/articles/syncing-a-fork/#platform-windows
 .. _configuring-a-remote-for-a-fork: https://help.github.com/articles/configuring-a-remote-for-a-fork/
 .. _Pull_request: https://help.github.com/articles/using-pull-requests/
-.. _picture: https://github.com/LotosikRa/python_learn/blob/master/picture.jpg
 .. _for_comments: https://docs.google.com/drawings/d/1dPZvqznigTCSEu9PUpyOdQPVJq3bFfYVybETjvoTRoA/edit?usp=sharing
