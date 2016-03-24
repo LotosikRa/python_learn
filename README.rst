@@ -6,14 +6,6 @@ python_learn
 В дальнейшем мы будем работать через GitHub. Предполагается что вы используете Linux_. Также можно PyCharm_.
 Обучалки: PyCharm_Edu_, Codecadame_, Prometheus_.
 
-Общая схема работы с GitHub
-===========================
-
-.. image:: picture.jpg
-
-Если что-то не ясно переходим по ссылочке для коментариев: for_comments_. Сюда можно задавать вопросы, с указанием на
-процесс.
-
 Помощь
 =====
 Как установить Linux? HL_
@@ -25,6 +17,14 @@ python_learn
 Как рабоать с табличкой? HT_
 
 Instructions_
+
+Общая схема работы с GitHub
+===========================
+
+.. image:: picture.jpg
+
+Если что-то не ясно переходим по ссылочке для коментариев: for_comments_. Сюда можно задавать вопросы, с указанием на
+процесс.
 
 .. Links
 .. _table: https://github.com/Infernion/python_learn/blob/master/students.rst#Основы-python
