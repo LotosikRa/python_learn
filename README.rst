@@ -37,8 +37,8 @@ Instructions_
 .. _for_comments: https://docs.google.com/drawings/d/1dPZvqznigTCSEu9PUpyOdQPVJq3bFfYVybETjvoTRoA/edit?usp=sharing
 
 .. for help
-.. _HL: https://github.com/LotosikRa/python_learn/blob/develop/instructions/instructions.rst#Установка-Linux
-.. _HG: https://github.com/LotosikRa/python_learn/blob/develop/instructions/instructions.rst#Установка-Git
-.. _HR: https://github.com/LotosikRa/python_learn/blob/develop/instructions/instructions.rst#Работа-с-репозиторием
-.. _HT: https://github.com/LotosikRa/python_learn/blob/develop/instructions/instructions.rst#Работа-с-табличкой
-.. _Instructions: https://github.com/LotosikRa/python_learn/blob/develop/instructions/instructions.rst
+.. _HL: https://github.com/Infernion/python_learn/blob/develop/instructions/instructions.rst#Установка-Linux
+.. _HG: https://github.com/Infernion/python_learn/blob/develop/instructions/instructions.rst#Установка-Git
+.. _HR: https://github.com/Infernion/python_learn/blob/develop/instructions/instructions.rst#Работа-с-репозиторием
+.. _HT: https://github.com/Infernion/python_learn/blob/develop/instructions/instructions.rst#Работа-с-табличкой
+.. _Instructions: https://github.com/Infernion/python_learn/blob/develop/instructions/instructions.rst
