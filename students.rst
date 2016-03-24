@@ -1,5 +1,10 @@
 Основы Python
 =============
+Отметки:
+\+ - добавил;
+✓ - все хорошо;
+✗ - переделать;
+[1-5] - конечная оценка;
 
 \+ - добавил
 ✓ - все хорошо
@@ -131,6 +136,9 @@
      -
      -
 
+HELP_
+=====
+.. _HELP: https://github.com/LotosikRa/python_learn/blob/develop/instructions/instructions.rst#Работа-с-табличкой
 .. CheckPoints
 
 .. |dz1| replace:: дз #1
