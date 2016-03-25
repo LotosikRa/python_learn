@@ -4,9 +4,8 @@
 
 def counter(text):
     count_this = 'aeiou'
-    original = "Python hAs an amazing fEature"
-    # напсать код здесь
-    counted = 0
+    text = text.lower()
+    counted = sum(text.count(char) for char in count_this)
     return counted
 
 

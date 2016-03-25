@@ -5,7 +5,7 @@ result = "dlroW siht ekil I"
 """
 
 def reverser(text):
-    result = ''  # напсать код здесь
+    result = text[::-1]  # напсать код здесь
     return result
 
 

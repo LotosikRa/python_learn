@@ -9,7 +9,7 @@ change =
 """
 
 def changer(text):
-    result = ''  # напсать код здесь
+    result = text[2::3]  # напсать код здесь
     return result
 
 
