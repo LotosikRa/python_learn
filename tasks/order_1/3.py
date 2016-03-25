@@ -4,7 +4,6 @@
 
 def counter(text):
     count_this = 'aeiou'
-    original = "Python hAs an amazing fEature"
     # напсать код здесь
     counted = 0
     return counted
