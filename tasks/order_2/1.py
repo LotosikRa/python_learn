@@ -13,7 +13,20 @@ palindromes = 4
 """
 
 def polindrome(text):
-    return
+    l = len(text)
+    text = text.lower()
+    i = 0
+    num = 0
+
+    for s in str(text)[1:len(text)-1]:
+        if (text[i-1] == ',' or text[i-1] == '.' or text[i-1] == ':' or text[i-1] == ';' or text[i-1] == '!' or text[i-1] == '?' or text[i-1] == ' ') and (text[i-1] == text[i+1]):
+            num -= 1
+        elif text[i-1] == text[i+1]:
+            num += 1
+        else:
+            num += 0
+        i += 1
+    return text
 
 
 if __name__=='__main__':
