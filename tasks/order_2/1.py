@@ -14,6 +14,7 @@ palindromes = 4
 
 def polindrome(text):
     l = len(text)
+    """ ШОТО Я ЗАТУПИЛ...
     text = text.lower()
     i = 0
     num = 0
@@ -26,6 +27,7 @@ def polindrome(text):
         else:
             num += 0
         i += 1
+    """
     return text
 
 
